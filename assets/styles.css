@@ -78,6 +78,7 @@ a:hover{opacity:.92}
 
 .btn {
     padding:.6rem .9rem;
+    align-self: center;
 }
 .cta {
     display: inline-block;
